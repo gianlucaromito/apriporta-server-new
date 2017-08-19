@@ -1,15 +1,4 @@
-Base Skeleton to start your application using Flask-AppBuilder
+Lato server per la gestione delle serrature elettriche
 --------------------------------------------------------------
 
-- Install it::
-
-	pip install flask-appbuilder
-	git clone https://github.com/dpgaspar/Flask-AppBuilder-Skeleton.git
-
-- Run it::
-
-	fabmanager run
-
-
-That's it!!
-
+Nuova versione basata su appbuiler (flask) in python
